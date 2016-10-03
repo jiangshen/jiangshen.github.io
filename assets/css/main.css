@@ -54,6 +54,10 @@ a:focus {
     outline: 0;
 }
 
+a#white {
+    color: #fff;
+}
+
 a:before,
 a:after {
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
